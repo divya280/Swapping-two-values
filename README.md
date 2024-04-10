@@ -20,12 +20,14 @@ End the program
 ## PROGRAM:
 ### Developed by: V.Divyashree
 ### Register No: 212223230051
+```
 a=int(input())
 b=int(input())
 temp=a
 a=b
 b=temp
 print("Swapped values are:",a,b)
+```
 ## OUTPUT:
 ![OUTPUT](image.png)
 ## RESULT:
